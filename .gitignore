@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+dist/
+build/
+
+# local caches and scratch (regenerated); the frozen benchmark snapshot below IS committed
+data/cache/
+data/old_v1/
+results/old_v1/
+*.bak
+*.log
+
+# keep: data/bench.duckdb + data/questions.json (the tests and the benchmark need them)
+# keep: results/*.jsonl (final runs); delete stale ones before committing

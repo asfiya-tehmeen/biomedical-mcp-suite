@@ -1,0 +1,1829 @@
+[
+ {
+  "id": "trials-type_2_diabetes-saudi_arabia-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for type 2 diabetes list Saudi Arabia as a location?",
+  "answer": 5,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "type 2 diabetes",
+     "country": "Saudi Arabia",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "326132f568f87c4ca21d56203d355bfa5c5fe318342e5b5ed9dd05240dad7185"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-type_2_diabetes-united_states-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for type 2 diabetes list United States as a location?",
+  "answer": 40,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "type 2 diabetes",
+     "country": "United States",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "2f40e255d69679a9f89ffd0f3a390a4d75d05b96046ddb30e2f5385d08fc47e6"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-type_2_diabetes-germany-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for type 2 diabetes list Germany as a location?",
+  "answer": 18,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "type 2 diabetes",
+     "country": "Germany",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "bb56c1211b4c21d91f8807290448f64c8f03c0bb3e03ee5e1730a3be7a34dc51"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-type_2_diabetes-egypt-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for type 2 diabetes list Egypt as a location?",
+  "answer": 1,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "type 2 diabetes",
+     "country": "Egypt",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "ad983d55663b6a6fac7c53e072acbdc3334a5b88df510be2351e5c9282a120b1"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-breast_cancer-saudi_arabia-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for breast cancer list Saudi Arabia as a location?",
+  "answer": 2,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "breast cancer",
+     "country": "Saudi Arabia",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "c4b58bbdceb50457de3300f6b99d0e460bcf992ba1bd8d8d923c63f3b982df82"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-breast_cancer-united_states-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for breast cancer list United States as a location?",
+  "answer": 59,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "breast cancer",
+     "country": "United States",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "a515a6e967ab53992c30b39acb295cb879582ea4144a0d28b50fa871fa82264b"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-breast_cancer-germany-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for breast cancer list Germany as a location?",
+  "answer": 34,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "breast cancer",
+     "country": "Germany",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "26db82d7beb97904a0afec53d11e835d5c26cb85f7cb52d28899c6c17da8fffe"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-breast_cancer-egypt-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for breast cancer list Egypt as a location?",
+  "answer": 7,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "breast cancer",
+     "country": "Egypt",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "0bd98664353d909a95b1a28646c234625d643f15c191f7ed3ff726eceec28d68"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-asthma-saudi_arabia-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for asthma list Saudi Arabia as a location?",
+  "answer": 0,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "asthma",
+     "country": "Saudi Arabia",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "b54968c05ff881a1ef7ce604b6a340248f8e2aee8637bef06da0f5693f520df8"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-asthma-united_states-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for asthma list United States as a location?",
+  "answer": 14,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "asthma",
+     "country": "United States",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "f3a6cdda970ad4d7d5116406511550b96aae3d705d544531dc9d16f95ebc0cf5"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-asthma-germany-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for asthma list Germany as a location?",
+  "answer": 3,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "asthma",
+     "country": "Germany",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "4fa934c217ff87785b12c482757a41ffd785ba0594ec569848cf7d7a48834c3d"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-asthma-egypt-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for asthma list Egypt as a location?",
+  "answer": 0,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "asthma",
+     "country": "Egypt",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "b54968c05ff881a1ef7ce604b6a340248f8e2aee8637bef06da0f5693f520df8"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-hypertension-saudi_arabia-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for hypertension list Saudi Arabia as a location?",
+  "answer": 3,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "hypertension",
+     "country": "Saudi Arabia",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "72df5a7b6eccf9c094345c0a466ce56fccc933253cd325afda060da87730635e"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-hypertension-united_states-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for hypertension list United States as a location?",
+  "answer": 29,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "hypertension",
+     "country": "United States",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "747822081a23be811129d32dc3b0452b8a9bdbb3d55cd1587d4fc596c3079408"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-hypertension-germany-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for hypertension list Germany as a location?",
+  "answer": 9,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "hypertension",
+     "country": "Germany",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "5636f9ead3ad02453f63918ca28901c4e99579d7210851c4d4071bcae2cfa6b3"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-hypertension-egypt-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for hypertension list Egypt as a location?",
+  "answer": 3,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "hypertension",
+     "country": "Egypt",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "a59b4884d9e877a770aa749cfb1d40d3ccd2ff72ce83c61bde4dc164b89d95ab"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-covid-19-saudi_arabia-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for COVID-19 list Saudi Arabia as a location?",
+  "answer": 3,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "COVID-19",
+     "country": "Saudi Arabia",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "8236795bf594aa6097d166013df605f4364e0c17268ae224d1f97ffd0fdf05da"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-covid-19-united_states-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for COVID-19 list United States as a location?",
+  "answer": 12,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "COVID-19",
+     "country": "United States",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "e354ea057f15490dea511368866a60f78c2a57c376b544a9d29387e83d0593aa"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-covid-19-germany-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for COVID-19 list Germany as a location?",
+  "answer": 6,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "COVID-19",
+     "country": "Germany",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "97ea69e98308c43f7bcf032e0bbce501003ccd00aa38ebd4c7ff0b3f3d1c3942"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-covid-19-egypt-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for COVID-19 list Egypt as a location?",
+  "answer": 3,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "COVID-19",
+     "country": "Egypt",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "082d00f54565b06cfb14424c16b4273fafa316543362f5355e97bb9f95b55c95"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-rheumatoid_arthritis-saudi_arabia-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for rheumatoid arthritis list Saudi Arabia as a location?",
+  "answer": 0,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "rheumatoid arthritis",
+     "country": "Saudi Arabia",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "b54968c05ff881a1ef7ce604b6a340248f8e2aee8637bef06da0f5693f520df8"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-rheumatoid_arthritis-united_states-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for rheumatoid arthritis list United States as a location?",
+  "answer": 5,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "rheumatoid arthritis",
+     "country": "United States",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "0df512b9ba04685c9e3383218e74f2792ae3a995dfbaedf3744b88100d59b463"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-rheumatoid_arthritis-germany-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for rheumatoid arthritis list Germany as a location?",
+  "answer": 2,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "rheumatoid arthritis",
+     "country": "Germany",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "5bf92c9a031a34671138db07f4f9e9c70d62f7984709f28f70f564eec16f571a"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "trials-rheumatoid_arthritis-egypt-phase3-recruiting",
+  "group": "trials",
+  "text": "How many recruiting phase 3 trials for rheumatoid arthritis list Egypt as a location?",
+  "answer": 5,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "rheumatoid arthritis",
+     "country": "Egypt",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "489b5f55b06ab4c8b1c6e0e813f88956217c7205bd1a65b70d1c0496b6640dd1"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "rx-lipitor",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Lipitor?",
+  "answer": [
+   "atorvastatin"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Lipitor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "153165"
+    }
+   }
+  ],
+  "support_hashes": [
+   "62672131d5b4f06f119ab4f8dba30b51c8b6667f03dd6731c061440a9ac4dead",
+   "553ca19fa0e5909dc266f446e0937825112fb9f89e36ac88b1393ffbc1e20cb0"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "rx-tylenol",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Tylenol?",
+  "answer": [
+   "acetaminophen"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Tylenol"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "202433"
+    }
+   }
+  ],
+  "support_hashes": [
+   "9b34e8508255a92fcbb3c520e2724e5f6262ecdacce5abc9d673f5fca09dcac3",
+   "52bc90998983f7e5e8f7021ec820f6e81287a1ab60f8f0767223e3aed10ad4bc"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "rx-zocor",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Zocor?",
+  "answer": [
+   "simvastatin"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Zocor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "196503"
+    }
+   }
+  ],
+  "support_hashes": [
+   "50553e38fe9cc49da132fd1b74da5bab790c62e90f13ede1ae0c1e4f7ba2231f",
+   "bd0609864d07e62a6152d98be4c7f07a0d5a3f92958948f19c6908e236a1f894"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "rx-glucophage",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Glucophage?",
+  "answer": [
+   "metformin"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Glucophage"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "151827"
+    }
+   }
+  ],
+  "support_hashes": [
+   "dcc179c7d629743ab9a5df99a05730ac7c7740c4ed8d712fd774d29c05111bc2",
+   "dfb38b2f20c0f140ce4f3268d958b20a51e84219fe7667607ce46611a4161c72"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "rx-advil",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Advil?",
+  "answer": [
+   "ibuprofen"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Advil"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "153010"
+    }
+   }
+  ],
+  "support_hashes": [
+   "5ced438df463376147436d051354864b2844b008acaf4a3b77ea3c31afd7e439",
+   "ddc23a4eacfa03fb4df8404b0b8250660e55127db1696cd1c30fdf1d4c05b14e"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "rx-plavix",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Plavix?",
+  "answer": [
+   "clopidogrel"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Plavix"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "174742"
+    }
+   }
+  ],
+  "support_hashes": [
+   "a1bfbfa10a8519cf7a7d5077fc06d95a56fbbce69e560a8d9774413863316a31",
+   "1b4c2cfcca4734196bdc6e50849a6f3d66a2d20e197e0ed100394bb761ca575e"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "rx-nexium",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Nexium?",
+  "answer": [
+   "esomeprazole"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Nexium"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "284799"
+    }
+   }
+  ],
+  "support_hashes": [
+   "7c68b78ba559e5667ad622515b8c3bc8486e6c577c1761880bcab28202b689d9",
+   "c9baa615560216471fd7c5d11e8a9544024ea448a39d111be045943ef7bf4e3a"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "rx-zoloft",
+  "group": "rxnorm",
+  "text": "What is the RxNorm ingredient name for the brand drug Zoloft?",
+  "answer": [
+   "sertraline"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Zoloft"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "82728"
+    }
+   }
+  ],
+  "support_hashes": [
+   "a088321edcebc5a3a2869cd1fa0057d907845ab8fbf2a541a5f6bb0c2ecdbe13",
+   "da55acaa7f68609b7666fb30e48e0d82d87f051665778a617a35511b93d05b0f"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "label-atorvastatin-rhabdomyolysis",
+  "group": "labels",
+  "text": "In the first current DailyMed label found for atorvastatin, which sections mention 'rhabdomyolysis'? Return the section titles.",
+  "answer": [
+   "17 PATIENT COUNSELING INFORMATION",
+   "5.1 Myopathy and Rhabdomyolysis",
+   "6 ADVERSE REACTIONS",
+   "6.2 Postmarketing Experience",
+   "7.1 Drug Interactions that may Increase the Risk of Myopathy and Rhabdomyolysis with Atorvastatin Calcium",
+   "8.5 Geriatric Use",
+   "8.6 Renal Impairment"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "search_labels",
+    "args": {
+     "drug_name": "atorvastatin",
+     "page_size": 1
+    }
+   },
+   {
+    "tool": "find_label_sections_mentioning",
+    "args": {
+     "setid": "f7cc5704-2131-4bcb-9ff0-33a79a8167bd",
+     "term": "rhabdomyolysis"
+    }
+   }
+  ],
+  "support_hashes": [
+   "187482cdbf36153491d5baa515a55aa07a04308a9d61ea12b8d57981fa96ec68",
+   "776184fe788eb6d932836158033aad5fc981a0374f320eefd2edb14c385f802d"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "label-metformin-lactic_acidosis",
+  "group": "labels",
+  "text": "In the first current DailyMed label found for metformin, which sections mention 'lactic acidosis'? Return the section titles.",
+  "answer": [
+   "DOSAGE & ADMINISTRATION",
+   "GENERAL PRECAUTIONS",
+   "INFORMATION FOR PATIENTS",
+   "OVERDOSAGE",
+   "PATIENT INFORMATION",
+   "WARNINGS"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "search_labels",
+    "args": {
+     "drug_name": "metformin",
+     "page_size": 1
+    }
+   },
+   {
+    "tool": "find_label_sections_mentioning",
+    "args": {
+     "setid": "06ade2e1-5981-4e3d-b7e9-7ff083eb4551",
+     "term": "lactic acidosis"
+    }
+   }
+  ],
+  "support_hashes": [
+   "3ae704fd663106a7fdaf83c1aa8fdaa2bcc5a22ca5633b0499641b32127dbab0",
+   "2ddc544e81cfa127d172046743525f68d6926678731e1b47d088a097d051194f"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "label-warfarin-bleeding",
+  "group": "labels",
+  "text": "In the first current DailyMed label found for warfarin, which sections mention 'bleeding'? Return the section titles.",
+  "answer": [
+   "10.1 Signs and Symptoms",
+   "10.2 Treatment",
+   "14.1 Atrial Fibrillation",
+   "14.2 Mechanical and Bioprosthetic Heart Valves",
+   "14.3 Myocardial Infarction",
+   "2.2 Recommended Target INR Ranges and Durations for Individual Indications",
+   "2.4 Monitoring to Achieve Optimal Anticoagulation",
+   "4 CONTRAINDICATIONS",
+   "5.1 Hemorrhage",
+   "7.1 General Information",
+   "7.3 Drugs that Increase Bleeding Risk",
+   "7.5 Botanical (Herbal) Products and Foods",
+   "8.4 Pediatric Use",
+   "8.5 Geriatric Use",
+   "8.7 Hepatic Impairment",
+   "WARNING: BLEEDING RISK"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "search_labels",
+    "args": {
+     "drug_name": "warfarin",
+     "page_size": 1
+    }
+   },
+   {
+    "tool": "find_label_sections_mentioning",
+    "args": {
+     "setid": "73b8e5ab-86f8-44f8-b290-346acb81c9ae",
+     "term": "bleeding"
+    }
+   }
+  ],
+  "support_hashes": [
+   "e416e8ba59ecad289a9acfc277a1575d0645677fafc3da31072e3a35c489aba1",
+   "cc193e19c8e8fcec957f096c8d6c4e99265393005b2d1abb0b6348cdd18c83e3"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "label-ibuprofen-cardiovascular",
+  "group": "labels",
+  "text": "In the first current DailyMed label found for ibuprofen, which sections mention 'cardiovascular'? Return the section titles.",
+  "answer": [
+   "ADVERSE REACTIONS",
+   "BOXED WARNING",
+   "Cardiovascular Effects",
+   "Drug Interactions",
+   "Information for Patients"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "search_labels",
+    "args": {
+     "drug_name": "ibuprofen",
+     "page_size": 1
+    }
+   },
+   {
+    "tool": "find_label_sections_mentioning",
+    "args": {
+     "setid": "a0861feb-87ff-473c-aa84-88343b1a592c",
+     "term": "cardiovascular"
+    }
+   }
+  ],
+  "support_hashes": [
+   "231f1017a922c17c1d86e4feb92c3b7885ecb72c70677eea2805d80812785fda",
+   "c6c0f71d28fb1df752e54b0b90636bcd564d6a4a15f04f0ee75d4d476537889d"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "label-sertraline-serotonin_syndrome",
+  "group": "labels",
+  "text": "In the first current DailyMed label found for sertraline, which sections mention 'serotonin syndrome'? Return the section titles.",
+  "answer": [
+   "10 OVERDOSAGE",
+   "17 PATIENT COUNSELING INFORMATION",
+   "4 CONTRAINDICATIONS",
+   "5.2 Serotonin Syndrome",
+   "6 ADVERSE REACTIONS",
+   "6.2 Post-marketing Experience",
+   "7.1 Clinically Significant Drug Interactions",
+   "8.1 Pregnancy"
+  ],
+  "answer_type": "set",
+  "expected_calls": [
+   {
+    "tool": "search_labels",
+    "args": {
+     "drug_name": "sertraline",
+     "page_size": 1
+    }
+   },
+   {
+    "tool": "find_label_sections_mentioning",
+    "args": {
+     "setid": "687ebdc4-6946-454e-8d46-3207488ccf32",
+     "term": "serotonin syndrome"
+    }
+   }
+  ],
+  "support_hashes": [
+   "27db52bf4c4a223cdb73faf81967226dc6e3e3aee1c3aa7e75e23860a27fbdc6",
+   "4feb28bb1ad4959a064d6025cd381989baaac693cf784e49e70e237ee068424c"
+  ],
+  "hops": 2,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-metformin[title]_and_cancer-2020",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'metformin[Title] AND cancer' were published in 2020?",
+  "answer": 408,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "metformin[Title] AND cancer",
+     "retmax": 1,
+     "min_date": "2020",
+     "max_date": "2020"
+    }
+   }
+  ],
+  "support_hashes": [
+   "b9270c013e4010e43db76b88558170203d14f8116693d0049c51c6d592a9024e"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-metformin[title]_and_cancer-2022",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'metformin[Title] AND cancer' were published in 2022?",
+  "answer": 413,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "metformin[Title] AND cancer",
+     "retmax": 1,
+     "min_date": "2022",
+     "max_date": "2022"
+    }
+   }
+  ],
+  "support_hashes": [
+   "2503dfc5c0a3e73e30e518bd7b6186d5e8f98605fdd2474c5b42ddc6eb08f8cb"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-metformin[title]_and_cancer-2024",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'metformin[Title] AND cancer' were published in 2024?",
+  "answer": 351,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "metformin[Title] AND cancer",
+     "retmax": 1,
+     "min_date": "2024",
+     "max_date": "2024"
+    }
+   }
+  ],
+  "support_hashes": [
+   "86fe170c9de51ef0043f548697ed42a32168d94fb1f7cb07513fb83d32d53e39"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-semaglutide[title]-2020",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'semaglutide[Title]' were published in 2020?",
+  "answer": 84,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "semaglutide[Title]",
+     "retmax": 1,
+     "min_date": "2020",
+     "max_date": "2020"
+    }
+   }
+  ],
+  "support_hashes": [
+   "4d543d9332f9867d9ee93b9fb61796f783544953e968e985070eaa7c1adc618e"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-semaglutide[title]-2022",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'semaglutide[Title]' were published in 2022?",
+  "answer": 193,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "semaglutide[Title]",
+     "retmax": 1,
+     "min_date": "2022",
+     "max_date": "2022"
+    }
+   }
+  ],
+  "support_hashes": [
+   "fc625fd42a1c6a7acd372d92ad75d8bc2ff5fe1b33f27f17a2e798a133e7514f"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-semaglutide[title]-2024",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'semaglutide[Title]' were published in 2024?",
+  "answer": 563,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "semaglutide[Title]",
+     "retmax": 1,
+     "min_date": "2024",
+     "max_date": "2024"
+    }
+   }
+  ],
+  "support_hashes": [
+   "7cf1717bceef91917fa8b6374aba4448077450183f789dcdf80816268e8c4175"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-crispr[title]_and_therapy-2020",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'CRISPR[Title] AND therapy' were published in 2020?",
+  "answer": 522,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "CRISPR[Title] AND therapy",
+     "retmax": 1,
+     "min_date": "2020",
+     "max_date": "2020"
+    }
+   }
+  ],
+  "support_hashes": [
+   "65c57dba84bc1a1dba54e3579108567589bc69979aa7cb366fab40b9e7de918a"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-crispr[title]_and_therapy-2022",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'CRISPR[Title] AND therapy' were published in 2022?",
+  "answer": 680,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "CRISPR[Title] AND therapy",
+     "retmax": 1,
+     "min_date": "2022",
+     "max_date": "2022"
+    }
+   }
+  ],
+  "support_hashes": [
+   "863c71e0b0b22b821c1d1b154ee2eade514d4d60532dadde6ab321a91c20fdb3"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "pubmed-crispr[title]_and_therapy-2024",
+  "group": "pubmed",
+  "text": "How many PubMed articles matching 'CRISPR[Title] AND therapy' were published in 2024?",
+  "answer": 712,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "search_pubmed",
+    "args": {
+     "term": "CRISPR[Title] AND therapy",
+     "retmax": 1,
+     "min_date": "2024",
+     "max_date": "2024"
+    }
+   }
+  ],
+  "support_hashes": [
+   "8be95fefbcffe6f6a85d9e2cc72e0d2bffe7c263019b52b35990e19d7a995327"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "devclass1-2018",
+  "group": "openfda",
+  "text": "How many Class I device enforcement reports have a report date in 2018?",
+  "answer": 136,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "device_enforcement_count",
+    "args": {
+     "classification": "Class I",
+     "date_from": "20180101",
+     "date_to": "20181231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "959d959038ef7bf27d8b310f9458c924f46e989907c12f82ced65d79a91e7fb6"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "devclass1-2019",
+  "group": "openfda",
+  "text": "How many Class I device enforcement reports have a report date in 2019?",
+  "answer": 369,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "device_enforcement_count",
+    "args": {
+     "classification": "Class I",
+     "date_from": "20190101",
+     "date_to": "20191231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "e2be291dcfeef4d80bc285fbeff8c18d805d23f9a049e5e68fd5b3fbaa255b8a"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "devclass1-2020",
+  "group": "openfda",
+  "text": "How many Class I device enforcement reports have a report date in 2020?",
+  "answer": 182,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "device_enforcement_count",
+    "args": {
+     "classification": "Class I",
+     "date_from": "20200101",
+     "date_to": "20201231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "bbe454bd94d7c40369ad0ad6b7c2529a0c2f3627971ce44735f0dd4eda5d4ec3"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "devclass1-2021",
+  "group": "openfda",
+  "text": "How many Class I device enforcement reports have a report date in 2021?",
+  "answer": 179,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "device_enforcement_count",
+    "args": {
+     "classification": "Class I",
+     "date_from": "20210101",
+     "date_to": "20211231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "6f9ec8f1aab461346ef1664ae8c6608b5734da23a301fc45a29387c235c5397b"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "devclass1-2022",
+  "group": "openfda",
+  "text": "How many Class I device enforcement reports have a report date in 2022?",
+  "answer": 168,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "device_enforcement_count",
+    "args": {
+     "classification": "Class I",
+     "date_from": "20220101",
+     "date_to": "20221231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "310223daf0168761827e877118368271ae5adeaf98d58d358c0bd9cde4a7823e"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "devclass1-2023",
+  "group": "openfda",
+  "text": "How many Class I device enforcement reports have a report date in 2023?",
+  "answer": 495,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "device_enforcement_count",
+    "args": {
+     "classification": "Class I",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "968574b6205d88ac93b9871206d248c09cf1b46c892fd95f3588269c0e0aa90f"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "devclass1-2024",
+  "group": "openfda",
+  "text": "How many Class I device enforcement reports have a report date in 2024?",
+  "answer": 392,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "device_enforcement_count",
+    "args": {
+     "classification": "Class I",
+     "date_from": "20240101",
+     "date_to": "20241231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "9a6f7b8ea8ec45e4555290a3ecfbade0cc7ba042c65c11e202d6698e3165c0e8"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "mh-lipitor-nausea-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Lipitor, how many FAERS reports mention 'nausea' with a receive date in 2023?",
+  "answer": 625,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Lipitor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "153165"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "atorvastatin",
+     "reaction": "nausea",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "62672131d5b4f06f119ab4f8dba30b51c8b6667f03dd6731c061440a9ac4dead",
+   "553ca19fa0e5909dc266f446e0937825112fb9f89e36ac88b1393ffbc1e20cb0",
+   "91995e4e47fb25722b4518ce8425cc3b72e00bd31d1b74a48a1dc75e0060f149"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-lipitor-headache-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Lipitor, how many FAERS reports mention 'headache' with a receive date in 2023?",
+  "answer": 671,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Lipitor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "153165"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "atorvastatin",
+     "reaction": "headache",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "62672131d5b4f06f119ab4f8dba30b51c8b6667f03dd6731c061440a9ac4dead",
+   "553ca19fa0e5909dc266f446e0937825112fb9f89e36ac88b1393ffbc1e20cb0",
+   "7814dde88dea3d2218c3708acc078cb971c4d6eb902486b85199acb0423faaaa"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-lipitor-dizziness-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Lipitor, how many FAERS reports mention 'dizziness' with a receive date in 2023?",
+  "answer": 523,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Lipitor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "153165"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "atorvastatin",
+     "reaction": "dizziness",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "62672131d5b4f06f119ab4f8dba30b51c8b6667f03dd6731c061440a9ac4dead",
+   "553ca19fa0e5909dc266f446e0937825112fb9f89e36ac88b1393ffbc1e20cb0",
+   "4695036cad94977cd240038f729e3405f5dc3bdd0744de98d074bf53317beea2"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-tylenol-nausea-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Tylenol, how many FAERS reports mention 'nausea' with a receive date in 2023?",
+  "answer": 3514,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Tylenol"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "202433"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "acetaminophen",
+     "reaction": "nausea",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "9b34e8508255a92fcbb3c520e2724e5f6262ecdacce5abc9d673f5fca09dcac3",
+   "52bc90998983f7e5e8f7021ec820f6e81287a1ab60f8f0767223e3aed10ad4bc",
+   "c891e3cb6666fa416ea1c6925e9de52abc4f2edc76f6fb4d29058583761348b3"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-tylenol-headache-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Tylenol, how many FAERS reports mention 'headache' with a receive date in 2023?",
+  "answer": 3449,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Tylenol"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "202433"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "acetaminophen",
+     "reaction": "headache",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "9b34e8508255a92fcbb3c520e2724e5f6262ecdacce5abc9d673f5fca09dcac3",
+   "52bc90998983f7e5e8f7021ec820f6e81287a1ab60f8f0767223e3aed10ad4bc",
+   "d988c1f7f472fb265427aebce3d2f603a37e493f24a7824a09af3639c49083ff"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-tylenol-dizziness-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Tylenol, how many FAERS reports mention 'dizziness' with a receive date in 2023?",
+  "answer": 2045,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Tylenol"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "202433"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "acetaminophen",
+     "reaction": "dizziness",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "9b34e8508255a92fcbb3c520e2724e5f6262ecdacce5abc9d673f5fca09dcac3",
+   "52bc90998983f7e5e8f7021ec820f6e81287a1ab60f8f0767223e3aed10ad4bc",
+   "4b73550d2a76d30095d32e403b25fb673c6f819099a7fdb6f213e363c253bdcd"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-zocor-nausea-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Zocor, how many FAERS reports mention 'nausea' with a receive date in 2023?",
+  "answer": 751,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Zocor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "196503"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "simvastatin",
+     "reaction": "nausea",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "50553e38fe9cc49da132fd1b74da5bab790c62e90f13ede1ae0c1e4f7ba2231f",
+   "bd0609864d07e62a6152d98be4c7f07a0d5a3f92958948f19c6908e236a1f894",
+   "3bf4660e85e826a43fa2866b678a792bbebab1dac342922f0ebc27f5a713c101"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-zocor-headache-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Zocor, how many FAERS reports mention 'headache' with a receive date in 2023?",
+  "answer": 679,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Zocor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "196503"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "simvastatin",
+     "reaction": "headache",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "50553e38fe9cc49da132fd1b74da5bab790c62e90f13ede1ae0c1e4f7ba2231f",
+   "bd0609864d07e62a6152d98be4c7f07a0d5a3f92958948f19c6908e236a1f894",
+   "5aa25a3b523b299c327c8fbbd77e798e4f14249e46ddcbfee6f571256c7001de"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-zocor-dizziness-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Zocor, how many FAERS reports mention 'dizziness' with a receive date in 2023?",
+  "answer": 597,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Zocor"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "196503"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "simvastatin",
+     "reaction": "dizziness",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "50553e38fe9cc49da132fd1b74da5bab790c62e90f13ede1ae0c1e4f7ba2231f",
+   "bd0609864d07e62a6152d98be4c7f07a0d5a3f92958948f19c6908e236a1f894",
+   "97ded4dc3a3905f4e6dcd18d28ad89a9c19ebb4392975c08e46d90b4e206a3d2"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-glucophage-nausea-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Glucophage, how many FAERS reports mention 'nausea' with a receive date in 2023?",
+  "answer": 1655,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Glucophage"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "151827"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "metformin",
+     "reaction": "nausea",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "dcc179c7d629743ab9a5df99a05730ac7c7740c4ed8d712fd774d29c05111bc2",
+   "dfb38b2f20c0f140ce4f3268d958b20a51e84219fe7667607ce46611a4161c72",
+   "35bbab673d284cd4411530a421609d3b67aca13769ad5e991936280bb094840b"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-glucophage-headache-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Glucophage, how many FAERS reports mention 'headache' with a receive date in 2023?",
+  "answer": 891,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Glucophage"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "151827"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "metformin",
+     "reaction": "headache",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "dcc179c7d629743ab9a5df99a05730ac7c7740c4ed8d712fd774d29c05111bc2",
+   "dfb38b2f20c0f140ce4f3268d958b20a51e84219fe7667607ce46611a4161c72",
+   "b189357afd920bbae5be5d53a7767456e02d505f06fefd144876858519269f7c"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "mh-glucophage-dizziness-2023",
+  "group": "multihop",
+  "text": "For the active ingredient of the brand drug Glucophage, how many FAERS reports mention 'dizziness' with a receive date in 2023?",
+  "answer": 842,
+  "answer_type": "number",
+  "expected_calls": [
+   {
+    "tool": "find_rxcui",
+    "args": {
+     "name": "Glucophage"
+    }
+   },
+   {
+    "tool": "get_ingredients",
+    "args": {
+     "rxcui": "151827"
+    }
+   },
+   {
+    "tool": "drug_event_count",
+    "args": {
+     "drug": "metformin",
+     "reaction": "dizziness",
+     "date_from": "20230101",
+     "date_to": "20231231"
+    }
+   }
+  ],
+  "support_hashes": [
+   "dcc179c7d629743ab9a5df99a05730ac7c7740c4ed8d712fd774d29c05111bc2",
+   "dfb38b2f20c0f140ce4f3268d958b20a51e84219fe7667607ce46611a4161c72",
+   "dbd8a45e38a5195d2b78c08393886926fb6532f486fcea14028be72ff1bd24a8"
+  ],
+  "hops": 3,
+  "heldout": false
+ },
+ {
+  "id": "unans-marfan_syndrome-saudi_arabia",
+  "group": "unanswerable",
+  "text": "List the NCT ids of recruiting phase 3 trials for Marfan syndrome in Saudi Arabia.",
+  "answer": null,
+  "answer_type": "none",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "Marfan syndrome",
+     "country": "Saudi Arabia",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "b54968c05ff881a1ef7ce604b6a340248f8e2aee8637bef06da0f5693f520df8"
+  ],
+  "hops": 1,
+  "heldout": false
+ },
+ {
+  "id": "unans-achondroplasia-egypt",
+  "group": "unanswerable",
+  "text": "List the NCT ids of recruiting phase 3 trials for achondroplasia in Egypt.",
+  "answer": null,
+  "answer_type": "none",
+  "expected_calls": [
+   {
+    "tool": "count_trials",
+    "args": {
+     "condition": "achondroplasia",
+     "country": "Egypt",
+     "phase": "PHASE3",
+     "status": "RECRUITING"
+    }
+   }
+  ],
+  "support_hashes": [
+   "b54968c05ff881a1ef7ce604b6a340248f8e2aee8637bef06da0f5693f520df8"
+  ],
+  "hops": 1,
+  "heldout": false
+ }
+]

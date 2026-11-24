@@ -1,0 +1,29 @@
+[project]
+name = "biomed-mcp"
+version = "0.1.0"
+description = "Provenance-first MCP servers over public biomedical APIs + an agent tool-use benchmark"
+requires-python = ">=3.10"
+dependencies = ["mcp>=1.2", "httpx>=0.27", "pydantic>=2.5", "duckdb>=1.0"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pytest-asyncio>=0.23"]
+
+[project.scripts]
+biomed-trials = "biomed_mcp.servers.trials:main"
+biomed-labels = "biomed_mcp.servers.labels:main"
+biomed-openfda = "biomed_mcp.servers.openfda:main"
+biomed-pubmed = "biomed_mcp.servers.pubmed:main"
+biomed-rxnorm = "biomed_mcp.servers.rxnorm:main"
+biomed-bench = "biomed_mcp.bench.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/biomed_mcp"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+pythonpath = ["src"]
